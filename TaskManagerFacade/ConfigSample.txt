@@ -1,0 +1,24 @@
+[General Setting]
+
+PC_Platform_version: windows7
+Android_Platform_version: Android
+Test_webpage_amount: 6
+Test_webpage_folder_path: C:\Users\yuanhanm\Desktop\TestFolder\TaskManagerFacade\WebSiteTestField.txt
+Test_webbrowser_instance_1_activity_name: com.android.browser/.BrowserActivity
+Test_webbrowser_instance_2_activity_name: com.android.browser/.BrowserActivity
+
+[CaptureImage Setting]
+
+Crop_X: 50
+Time_delay: 30
+Saved_picture_Path_for_brw1: C:\Users\yuanhanm\Desktop\TestFolder\TaskManagerFacade\TstPicf_1\
+Saved_picture_Path_for_brw2: C:\Users\yuanhanm\Desktop\TestFolder\TaskManagerFacade\TstPicf_2\
+
+[CompareImage Setting]
+
+Test_folder_1: C:\Users\yuanhanm\Desktop\TestFolder\TaskManagerFacade\TstPicf_1\
+Test_folder_2: C:\Users\yuanhanm\Desktop\TestFolder\TaskManagerFacade\TstPicf_2\
+Result_folder: C:\Users\yuanhanm\Desktop\TestFolder\TaskManagerFacade\RstFld\
+Mask_folder: C:\Users\yuanhanm\Desktop\TestFolder\TaskManagerFacade\MskFld\
+Threshold: 10
+
